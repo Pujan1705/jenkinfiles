@@ -15,7 +15,7 @@ pipeline {
         {
             steps 
             {
-                echo 'build'
+                echo 'chalo kaam karte hai'
             }
         }
         
